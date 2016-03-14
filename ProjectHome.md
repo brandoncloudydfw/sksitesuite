@@ -1,0 +1,3 @@
+The purpose of this project is to compile a suite of integrated tools that will allow for a more effective website management process.  The tools will be easy to use, have minimal requirements, and be performance oriented.
+
+Initially planned for release is a comprehensive sitemap generator and management system.  More utilities to follow in the near future.  Licensing will likely change prior to alpha release as the developer gets a better grasp on the ins and outs of the available license models.
